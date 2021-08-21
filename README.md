@@ -1,16 +1,12 @@
-# pricing_tables
+# Pricing Table UI In Flutter
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/ZeclizBnaig)
 
-## Getting Started
+### Pricing Table UI In Flutter
 
-This project is a starting point for a Flutter application.
+A nice clean Pricing Table UI In Flutter.Today I will show you how you can create Pricing Table UI using flutter. We also add animation which works perfectly on mobile and the web.
 
-A few resources to get you started if this is your first Flutter project:
+### Pricing Table UI In Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/130322969-c63bb543-da7b-49c4-8c37-878773c29f89.png" alt="portfolio" width="600">
