@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../constants.dart';
+
 class TableThird extends StatelessWidget {
   const TableThird({
     Key? key,
@@ -11,7 +13,7 @@ class TableThird extends StatelessWidget {
       height: 500,
       width: 300,
       decoration: BoxDecoration(
-        color: Color(0xFF0C1B3A),
+        color: cardColor,
         borderRadius: BorderRadius.only(
           topLeft: Radius.circular(70),
         ),

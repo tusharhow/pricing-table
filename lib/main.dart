@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pricing_tables/constants.dart';
 import 'components/table_first.dart';
 import 'components/table_second.dart';
 import 'components/table_third.dart';
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        canvasColor: Color(0xff3ECC9A),
+        canvasColor: bgColor,
       ),
       home: HomePage(),
     );

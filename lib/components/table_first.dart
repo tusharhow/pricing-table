@@ -1,5 +1,6 @@
-
 import 'package:flutter/material.dart';
+
+import '../constants.dart';
 
 class TableFirst extends StatelessWidget {
   const TableFirst({
@@ -12,7 +13,7 @@ class TableFirst extends StatelessWidget {
       height: 500,
       width: 300,
       decoration: BoxDecoration(
-        color: Color(0xFF0C1B3A),
+        color: cardColor,
         borderRadius: BorderRadius.only(
           topLeft: Radius.circular(70),
         ),
@@ -25,9 +26,7 @@ class TableFirst extends StatelessWidget {
           Text(
             'Basic',
             style: TextStyle(
-                color: Colors.white,
-                fontSize: 35,
-                fontWeight: FontWeight.bold),
+                color: Colors.white, fontSize: 35, fontWeight: FontWeight.bold),
           ),
           SizedBox(
             height: 30,
